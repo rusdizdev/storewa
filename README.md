@@ -3,16 +3,16 @@
 - Aman di gunakan!
 
 ## Download 
-- Sc: https://github.com/rusdizdev/storewa/archive/refs/heads/main.zip
-- Modules: https://github.com/rusdizdev/modules/raw/refs/heads/main/node_modules.zip
+- [Sc: storewa-main.zip](https://github.com/rusdizdev/storewa/archive/refs/heads/main.zip)  
+- [Modules: node_modules.zip](https://github.com/rusdizdev/modules/raw/refs/heads/main/node_modules.zip
 
 ## Fitur
-- 💻 _Pairing Kode_  
+- 💻 Pairing Kode
 - 📋 List Command 
 - 🎉 Welcome Message  
 - 👑 Owner Cmd  
 - 🛠️ Admin Tools 
-- 🌐 _Suport all prefix  
+- 🌐 Suport all prefix  
 - 🛠️ Berbagai perbaikan bug
 
 ## Spoiler
