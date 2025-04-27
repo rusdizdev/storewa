@@ -3,7 +3,7 @@
 - Aman di gunakan!
 
 ## Fitur
-- 4 _Pairing Kode_  
+- 💻 _Pairing Kode_  
 - 📋 List Command 
 - 🎉 Welcome Message  
 - 👑 Owner Cmd  
