@@ -4,7 +4,8 @@
 
 ## Download 
 - Sc: https://github.com/rusdizdev/storewa/archive/refs/heads/main.zip
-- Modol: 
+- Modules: https://github.com/rusdizdev/modules/raw/refs/heads/main/node_modules.zip
+
 ## Fitur
 - 💻 _Pairing Kode_  
 - 📋 List Command 
