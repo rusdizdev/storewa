@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Script store V1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rusdimasen",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.2.0",
+    "@peculiar/webcrypto": "^1.4.0",
+    "pino": "^7.11.0",
+    "axios": "^1.6.2",
+     "node-fetch": "^2.6.7",
+    "form-data": "^4.0.0",
+      "buffer": "^6.0.3"
+  }
+}
