@@ -3,8 +3,8 @@
 - Aman di gunakan!
 
 ## Download 
-- [Sc: storewa-main.zip](https://github.com/rusdizdev/storewa/archive/refs/heads/main.zip)  
-- [Modules: node_modules.zip](https://github.com/rusdizdev/modules/raw/refs/heads/main/node_modules.zip)
+- Sc: [storewa-main.zip](https://github.com/rusdizdev/storewa/archive/refs/heads/main.zip)  
+- Modules: [node_modules.zip](https://github.com/rusdizdev/modules/raw/refs/heads/main/node_modules.zip)
 
 ## Fitur
 - 💻 Pairing Kode
