@@ -2,6 +2,9 @@
 - Note: SC ini tidak dilengkapi dengan fitur yang disebut sebagai _Blackdoor_. Kami tidak mendesain SC ini untuk digunakan oleh pihak luar atau pihak ketiga.
 - Aman di gunakan!
 
+## Download 
+- Sc: https://github.com/rusdizdev/storewa/archive/refs/heads/main.zip
+- Modol: 
 ## Fitur
 - 💻 _Pairing Kode_  
 - 📋 List Command 
