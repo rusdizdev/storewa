@@ -28,4 +28,5 @@
 <br>rusdizdev@gmail.com
 
 ## UPDATE!
-<br>DATE:27-APRIL-2025
+<br>DATE:28-APRIL-2025
+<br>Berbagai perbaikan Bug
